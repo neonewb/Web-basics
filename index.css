@@ -1,0 +1,9 @@
+.image {
+  width: 100px;
+}
+
+p {
+  color: rgba(255, 255, 255, 0.603);
+  border: 1px solid;
+  background: #2ec329;
+}
